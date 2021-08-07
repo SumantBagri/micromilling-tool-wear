@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: unsrt.bst
+Database file #1: cite_p.bib
+Warning--empty journal in CITE29
+You've used 34 entries,
+            1791 wiz_defined-function locations,
+            679 strings with 10630 characters,
+and the built_in function-call counts, 8943 in all, are:
+= -- 815
+> -- 458
+< -- 5
++ -- 164
+- -- 130
+* -- 683
+:= -- 1430
+add.period$ -- 104
+call.type$ -- 34
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 352
+empty$ -- 801
+format.name$ -- 130
+if$ -- 1943
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 33
+newline$ -- 172
+num.names$ -- 36
+pop$ -- 63
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 167
+stack$ -- 0
+substring$ -- 728
+swap$ -- 80
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 95
+width$ -- 36
+write$ -- 374
+(There was 1 warning)

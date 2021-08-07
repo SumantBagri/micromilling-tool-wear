@@ -1,0 +1,224 @@
+\begin{thebibliography}{10}
+
+\bibitem{CITE1}
+A~Banerjee and EV~Bordatchev.
+\newblock Effect of circular tool path on cutting force profile in
+  micro-end-milling.
+\newblock {\em Proceedings of the Institution of Mechanical Engineers, Part C:
+  Journal of Mechanical Engineering Science}, 226(6):1589--1600, 2012.
+
+\bibitem{CITE2}
+Mohammad Malekian, Simon~S. Park, and Martin~B.G. Jun.
+\newblock Tool wear monitoring of micro-milling operations.
+\newblock {\em Journal of Materials Processing Technology}, 209(10):4903--4914,
+  2009.
+
+\bibitem{CITE3}
+X.~Li, B.~S. Lim, J.~H. Zhou, S.~Huang, S.~J. Phua, K.~C. Shaw, and M.~Er.
+\newblock Fuzzy neural network modelling for tool wear estimation in dry
+  milling operation.
+\newblock {\em Annual conference of the prognostics and health management
+  society}, pages 1--11, 2009.
+
+\bibitem{CITE4}
+Sohyung Cho, Sultan Binsaeid, and Shihab Asfour.
+\newblock Design of multisensor fusion-based tool condition monitoring system
+  in end milling.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  46(5-8):681--694, 2010.
+
+\bibitem{CITE5}
+Zhenhua Wu.
+\newblock Cutting tool condition monitoring and prediction based on dynamic
+  data driven approaches.
+\newblock In {\em International Manufacturing Science and Engineering
+  Conference}, volume 56826, page V001T02A110. American Society of Mechanical
+  Engineers, 2015.
+
+\bibitem{CITE6}
+Dazhong Wu, Connor Jennings, Janis Terpenny, Robert~X Gao, and Soundar Kumara.
+\newblock A comparative study on machine learning algorithms for smart
+  manufacturing: tool wear prediction using random forests.
+\newblock {\em Journal of Manufacturing Science and Engineering}, 139(7), 2017.
+
+\bibitem{CITE7}
+Cyril Drouillet, Jaydeep Karandikar, Chandra Nath, Anne-Claire Journeaux,
+  Mohamed El~Mansori, and Thomas Kurfess.
+\newblock Tool life predictions in milling using spindle power with the neural
+  network technique.
+\newblock {\em Journal of Manufacturing Processes}, 22:161--168, 2016.
+
+\bibitem{CITE8}
+Chong Zhang, Geok~Soon Hong, Huan Xu, Kay~Chen Tan, Jun~Hong Zhou, Hian~Leng
+  Chan, and Haizhou Li.
+\newblock A data-driven prognostics framework for tool remaining useful life
+  estimation in tool condition monitoring.
+\newblock In {\em 2017 22nd IEEE International Conference on Emerging
+  Technologies and Factory Automation (ETFA)}, pages 1--8. IEEE, 2017.
+
+\bibitem{CITE9}
+Yuxuan Chen, Yi~Jin, and Galantu Jiri.
+\newblock Predicting tool wear with multi-sensor data using deep belief
+  networks.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  99(5-8):1917--1926, 2018.
+
+\bibitem{CITE10}
+Zhixiong Li, Rui Liu, and Dazhong Wu.
+\newblock Data-driven smart manufacturing: tool wear monitoring with audio
+  signals and machine learning.
+\newblock {\em Journal of Manufacturing Processes}, 48:66--76, 2019.
+
+\bibitem{CITE11}
+Jian-wei Ma, Guo-qing Hu, Zhen-yuan Jia, Ning Zhang, and Fu-ji Wang.
+\newblock Effect of geometric feature and cutting direction on variation of
+  force and vibration in high-speed milling of tc4 curved surface.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  95(5-8):2207--2218, 2018.
+
+\bibitem{CITE12}
+Rodrigo Henriques~Lopes da~Silva and Amauri Hassui.
+\newblock Cutting force and surface roughness depend on the tool path used in
+  side milling: an experimental investigation.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  96(1-4):1445--1455, 2018.
+
+\bibitem{CITE13}
+Kaining Shi, Ning Liu, Sibao Wang, and Junxue Ren.
+\newblock Effect of tool path on cutting force in end milling.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  104(9-12):4289--4300, 2019.
+
+\bibitem{CITE14}
+Amin Dadgari, Dehong Huo, and David Swailes.
+\newblock Investigation on tool wear and tool life prediction in micro-milling
+  of ti-6al-4v.
+\newblock {\em Nanotechnology and Precision Engineering}, 1(4):218--225, 2018.
+
+\bibitem{CITE15}
+Vipindas K and Jose Mathew.
+\newblock Wear behavior of tialn coated wc tool during micro end milling of
+  ti-6al-4v and analysis of surface roughness.
+\newblock {\em Wear}, 424-425:165--182, 2019.
+
+\bibitem{CITE16}
+Yishun Wang, Bin Zou, and Chuanzhen Huang.
+\newblock Tool wear mechanisms and micro-channels quality in micro-machining of
+  ti-6al-4v alloy using the ti(c7n3)-based cermet micro-mills.
+\newblock {\em Tribology International}, 134:60--76, 2019.
+
+\bibitem{CITE17}
+Ingo~G. Reichenbach, Martin Bohley, Fabio~J.P. Sousa, and Jan~C. Aurich.
+\newblock Tool-life criteria and wear behavior of single-edge ultra-small micro
+  end mills.
+\newblock {\em Precision Engineering}, 55:48--58, 2019.
+
+\bibitem{CITE18}
+Chakradhar Bandapalli, Bharatkumar~Mohanbhai Sutaria, Dhananjay~Vishnu {Prasad
+  Bhatt}, and Kundan~Kumar Singh.
+\newblock Tool wear analysis of micro end mills - uncoated and pvd coated tialn
+  {\&} altin in high speed micro milling of titanium alloy - ti-0.3mo-0.8ni.
+\newblock {\em Procedia CIRP}, 77:626--629, 2018.
+
+\bibitem{CITE19}
+L.~Alhadeff, M.~Marshall, and T.~Slatter.
+\newblock The influence of tool coating on the length of the normal operating
+  region (steady-state wear) for micro end mills.
+\newblock {\em Precision Engineering}, 60:306--319, 2019.
+
+\bibitem{CITE20}
+Abram Pleta, Durul Ulutan, and Laine Mears.
+\newblock An investigation of alternative path planning strategies for
+  machining of nickel-based superalloys.
+\newblock {\em Procedia Manufacturing}, 1:556--566, 2015.
+
+\bibitem{CITE21}
+Dongsheng Liu, Ying Zhang, Ming Luo, and Dinghua Zhang.
+\newblock Investigation of tool wear and chip morphology in dry trochoidal
+  milling of titanium alloy ti-6al-4v.
+\newblock {\em Materials (Basel, Switzerland)}, 12(12), 2019.
+
+\bibitem{CITE22}
+Samad Nadimi~Bavil Oliaei and Yi{\u{g}}it Karpat.
+\newblock Influence of tool wear on machining forces and tool deflections
+  during micro milling.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  84(9-12):1963--1980, 2016.
+
+\bibitem{CITE23}
+Xiaohong Lu, Furui Wang, Zhenyuan Jia, Likun Si, Chi Zhang, and Steven~Y.
+  Liang.
+\newblock A modified analytical cutting force prediction model under the tool
+  flank wear effect in micro-milling nickel-based superalloy.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  91(9-12):3709--3716, 2017.
+
+\bibitem{CITE24}
+Ce~Han, Ming Luo, Dinghua Zhang, and Baohai Wu.
+\newblock Mechanistic modelling of worn drill cutting forces with drill wear
+  effect coefficients.
+\newblock {\em Procedia CIRP}, 82:2--7, 2019.
+
+\bibitem{CITE25}
+Daniel~Frank Hesser and Bernd Markert.
+\newblock Tool wear monitoring of a retrofitted cnc milling machine using
+  artificial neural networks.
+\newblock {\em Manufacturing Letters}, 19:1--4, 2019.
+
+\bibitem{CITE26}
+Aitor Duo, Rosa Basagoiti, Pedro~J. Arrazola, Javier Aperribay, and Mikel
+  Cuesta.
+\newblock The capacity of statistical features extracted from multiple signals
+  to predict tool wear in the drilling process.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  102(5-8):2133--2146, 2019.
+
+\bibitem{CITE27}
+Xian Wu, Liang Li, Ning He, Guolong Zhao, Feng Jiang, and Jianyun Shen.
+\newblock Study on the tool wear and its effect of pcd tool in micro milling of
+  tungsten carbide.
+\newblock {\em International Journal of Refractory Metals and Hard Materials},
+  77:61--67, 2018.
+
+\bibitem{CITE28}
+Abram Pleta, Farbod~Akhavan Niaki, and Laine Mears.
+\newblock A comparative study on the cutting force coefficient identification
+  between trochoidal and slot milling.
+\newblock {\em Procedia Manufacturing}, 26:570--579, 2018.
+
+\bibitem{CITE29}
+Omer Eker, Faith Camci, and Ian~K. Jennions.
+\newblock Major challenges in prognostics: study on benchmarking prognostic
+  datasets.
+\newblock 2012.
+
+\bibitem{CITE30}
+{Lei Zhang}, {Xingshan Li}, and {Jinsong Yu}.
+\newblock A review of fault prognostics in condition based maintenance.
+\newblock {\em Spie The International Society For Optical Engineering}, 2006.
+
+\bibitem{CITE31}
+Ying Peng, Ming Dong, and Ming~Jian Zuo.
+\newblock Current status of machine prognostics in condition-based maintenance:
+  a review.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  50(1):297--313, 2010.
+
+\bibitem{CITE32}
+Rui Zhao, Ruqiang Yan, Zhenghua Chen, Kezhi Mao, Peng Wang, and Robert~X. Gao.
+\newblock Deep learning and its applications to machine health monitoring.
+\newblock {\em Mechanical Systems and Signal Processing}, 115:213--237, 2019.
+
+\bibitem{CITE33}
+albertbup.
+\newblock A python implementation of deep belief networks built upon numpy and
+  tensorflow with scikit-learn compatibility, 2017.
+
+\bibitem{CITE34}
+Scott~M Lundberg and Su-In Lee.
+\newblock A unified approach to interpreting model predictions.
+\newblock In I.~Guyon, U.~V. Luxburg, S.~Bengio, H.~Wallach, R.~Fergus,
+  S.~Vishwanathan, and R.~Garnett, editors, {\em Advances in Neural Information
+  Processing Systems 30}, pages 4765--4774. Curran Associates, Inc., 2017.
+
+\end{thebibliography}

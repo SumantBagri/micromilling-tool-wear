@@ -1,0 +1,703 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.27)  6 JUL 2020 16:28
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**paper.tex
+(./paper.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (c:/texlive/2020/texmf-dist/tex/latex/elsarticle/elsarticle.cls
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen134
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+\c@tnote=\count175
+\c@fnote=\count176
+\c@cnote=\count177
+\c@ead=\count178
+\c@author=\count179
+\@eadauthor=\toks16
+\c@affn=\count180
+\absbox=\box45
+\elsarticlehighlightsbox=\box46
+\elsarticlegrabsbox=\box47
+\keybox=\box48
+\Columnwidth=\dimen138
+\space@left=\dimen139
+\els@boxa=\box49
+\els@boxb=\box50
+\leftMargin=\dimen140
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ (build/paper.spl) (c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count181
+)
+\splwrite=\write3
+\openout3 = `paper.spl'.
+
+\appnamewidth=\dimen141
+) (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2020/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count182
+\output=\toks19
+\linenoprevgraf=\count183
+\linenumbersep=\dimen142
+\linenumberwidth=\dimen143
+\c@linenumber=\count184
+\c@pagewiselinenumber=\count185
+\c@LN@truepage=\count186
+\c@internallinenumber=\count187
+\c@internallinenumbers=\count188
+\quotelinenumbersep=\dimen144
+\bframerule=\dimen145
+\bframesep=\dimen146
+\bframebox=\box51
+LaTeX Info: Redefining \\ on input line 3056.
+) (c:/texlive/2020/texmf-dist/tex/latex/anysize/anysize.sty
+Package: anysize 1994/08/13 setting margin sizes
+
+document style option `anysize' loaded
+Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
+Version 1.0, Aug 13, 1994
+\@Leftmargin=\dimen147
+\@Rightmargin=\dimen148
+\@Topmargin=\dimen149
+\@Bottommargin=\dimen150
+) (c:/texlive/2020/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (c:/texlive/2020/texmf-dist/tex/generic/pictex/pictex.sty (c:/texlive/2020/texmf-dist/tex/generic/pictex/prepictex.tex) (c:/texlive/2020/texmf-dist/tex/generic/pictex/pictex.tex) (c:/texlive/2020/texmf-dist/tex/generic/pictex/postpictex.tex) (c:/texlive/2020/texmf-dist/tex/generic/pictex/picmore.tex) (c:/texlive/2020/texmf-dist/tex/generic/pictex/piccorr.sty)) (c:/texlive/2020/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count271
+\FV@InFile=\read2
+\FV@TabBox=\box58
+\c@FancyVerbLine=\count272
+\FV@StepNumber=\count273
+\FV@OutFile=\write5
+) (c:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (c:/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip62
+\subfigcapskip=\skip63
+\subfigcaptopadj=\dimen317
+\subfigbottomskip=\skip64
+\subfigcapmargin=\dimen318
+\subfiglabelskip=\skip65
+\c@subfigure=\count274
+\c@lofdepth=\count275
+\c@subtable=\count276
+\c@lotdepth=\count277
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip66
+\subfig@bottom=\skip67
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/rawfonts.sty
+Package: rawfonts 1994/05/08 Low-level LaTeX 2.09 font compatibility
+ (c:/texlive/2020/texmf-dist/tex/latex/tools/somedefs.sty
+Package: somedefs 1994/06/01 v0.03 Toolkit for optional definitions
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 49.
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)) (c:/texlive/2020/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks23
+\AP@partial=\box59
+\AP@footins=\box60
+) (c:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (c:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen319
+\captionmargin@=\dimen320
+\captionwidth=\dimen321
+\caption@tempdima=\dimen322
+\caption@indent=\dimen323
+\caption@parindent=\dimen324
+\caption@hangindent=\dimen325
+Package caption Info: elsarticle document class detected.
+)
+\c@caption@flags=\count278
+\c@continuedfloat=\count279
+Package caption Info: subfigure package is loaded.
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen326
+\ar@mcellbox=\box61
+\extrarowheight=\dimen327
+\NC@list=\toks24
+\extratabsurround=\skip68
+\backup@length=\skip69
+\ar@cellbox=\box62
+)
+\TX@col@width=\dimen328
+\TX@old@table=\dimen329
+\TX@old@col=\dimen330
+\TX@target=\dimen331
+\TX@delta=\dimen332
+\TX@cols=\count280
+\TX@ftn=\toks25
+) (c:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks26
+\float@box=\box63
+\@float@everytoks=\toks27
+\@floatcapt=\box64
+) (c:/texlive/2020/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks28
+\SOUL@lasttoken=\toks29
+\SOUL@cmds=\toks30
+\SOUL@buffer=\toks31
+\SOUL@token=\toks32
+\SOUL@spaceskip=\skip70
+\SOUL@ttwidth=\dimen333
+\SOUL@uldp=\dimen334
+\SOUL@ulht=\dimen335
+) (c:/texlive/2020/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen336
+\c@nlinenum=\count282
+\TeXr@lab=\toks33
+) (c:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen337
+)) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen338
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count283
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count284
+\leftroot@=\count285
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count286
+\DOTSCASE@=\count287
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box65
+\strutbox@=\box66
+\big@size=\dimen339
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count288
+\c@MaxMatrixCols=\count289
+\dotsspace@=\muskip16
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks35
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks36
+\eqnshift@=\dimen340
+\alignsep@=\dimen341
+\tagshift@=\dimen342
+\tagwidth@=\dimen343
+\totwidth@=\dimen344
+\lineht@=\dimen345
+\@envbody=\toks37
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count295
+\l__pdf_internal_box=\box67
+) (build/paper.aux
+
+LaTeX Warning: Label `sec:sec41' multiply defined.
+
+
+LaTeX Warning: Label `sec:sec42' multiply defined.
+
+)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+ (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count296
+\scratchdimen=\dimen346
+\scratchbox=\box68
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen347
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks40
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (c:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (c:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 152.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 152.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+<31.png, id=18, 954.41568pt x 244.81462pt>
+File: 31.png Graphic file (type png)
+<use 31.png>
+Package pdftex.def Info: 31.png  used on input line 180.
+(pdftex.def)             Requested size: 455.24411pt x 116.77376pt.
+ [4 <./31.png>]
+<32.png, id=25, 3262.68938pt x 1219.55624pt>
+File: 32.png Graphic file (type png)
+<use 32.png>
+Package pdftex.def Info: 32.png  used on input line 200.
+(pdftex.def)             Requested size: 455.24411pt x 170.15984pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 209--221
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--221
+
+ []
+
+[6 <./32.png>]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 227--245
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--245
+
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 248--274
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--274
+
+ []
+
+[7]
+<34.png, id=39, 2787.66469pt x 775.39688pt>
+File: 34.png Graphic file (type png)
+<use 34.png>
+Package pdftex.def Info: 34.png  used on input line 280.
+(pdftex.def)             Requested size: 455.24411pt x 126.62166pt.
+<35.png, id=40, 813.0375pt x 298.2342pt>
+File: 35.png Graphic file (type png)
+<use 35.png>
+Package pdftex.def Info: 35.png  used on input line 290.
+(pdftex.def)             Requested size: 455.24411pt x 166.98726pt.
+ [8 <./34.png> <./35.png>]
+<38.png, id=46, 566.41612pt x 168.02776pt>
+File: 38.png Graphic file (type png)
+<use 38.png>
+Package pdftex.def Info: 38.png  used on input line 314.
+(pdftex.def)             Requested size: 455.24411pt x 135.04797pt.
+ [9 <./38.png>]
+<39.png, id=52, 692.88863pt x 288.17662pt>
+File: 39.png Graphic file (type png)
+<use 39.png>
+Package pdftex.def Info: 39.png  used on input line 329.
+(pdftex.def)             Requested size: 455.24411pt x 189.33969pt.
+ [10 <./39.png>]
+<310.png, id=57, 919.93687pt x 874.76813pt>
+File: 310.png Graphic file (type png)
+<use 310.png>
+Package pdftex.def Info: 310.png  used on input line 339.
+(pdftex.def)             Requested size: 318.66948pt x 303.02333pt.
+<312.png, id=58, 1909.88531pt x 945.5325pt>
+File: 312.png Graphic file (type png)
+<use 312.png>
+Package pdftex.def Info: 312.png  used on input line 348.
+(pdftex.def)             Requested size: 455.24411pt x 225.37425pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 353--378
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--378
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--378
+
+ []
+
+[11 <./310.png>]
+<325.png, id=63, 443.10544pt x 628.29732pt>
+File: 325.png Graphic file (type png)
+<use 325.png>
+Package pdftex.def Info: 325.png  used on input line 384.
+(pdftex.def)             Requested size: 318.66948pt x 451.85603pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./312.png>] [13 <./325.png>]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 393--408
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--408
+
+ []
+
+<320.png, id=73, 2929.19344pt x 2647.64156pt>
+File: 320.png Graphic file (type png)
+<use 320.png>
+Package pdftex.def Info: 320.png  used on input line 414.
+(pdftex.def)             Requested size: 318.66948pt x 288.00949pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14] [15 <./320.png>]
+<321.png, id=82, 668.4975pt x 275.52937pt>
+File: 321.png Graphic file (type png)
+<use 321.png>
+Package pdftex.def Info: 321.png  used on input line 449.
+(pdftex.def)             Requested size: 455.24411pt x 187.63916pt.
+ [16 <./321.png>]
+<322.png, id=87, 826.58812pt x 398.84006pt>
+File: 322.png Graphic file (type png)
+<use 322.png>
+Package pdftex.def Info: 322.png  used on input line 464.
+(pdftex.def)             Requested size: 409.71692pt x 197.69725pt.
+ [17 <./322.png>]
+<324.png, id=92, 573.64313pt x 469.755pt>
+File: 324.png Graphic file (type png)
+<use 324.png>
+Package pdftex.def Info: 324.png  used on input line 503.
+(pdftex.def)             Requested size: 341.43307pt x 279.60446pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18]
+<323.png, id=100, 954.56625pt x 328.22626pt>
+File: 323.png Graphic file (type png)
+<use 323.png>
+Package pdftex.def Info: 323.png  used on input line 512.
+(pdftex.def)             Requested size: 455.24411pt x 156.53513pt.
+ [19 <./324.png> <./323.png>] [20]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 566--592
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--592
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--592
+
+ []
+
+[21]
+<51.png, id=114, 1198.4775pt x 909.3975pt>
+File: 51.png Graphic file (type png)
+<use 51.png>
+Package pdftex.def Info: 51.png  used on input line 597.
+(pdftex.def)             Requested size: 455.24411pt x 345.43588pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<52.png, id=115, 996.72375pt x 940.26282pt>
+File: 52.png Graphic file (type png)
+<use 52.png>
+Package pdftex.def Info: 52.png  used on input line 607.
+(pdftex.def)             Requested size: 455.24411pt x 429.45584pt.
+[22]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<53.png, id=119, 4232.31187pt x 2349.52782pt>
+File: 53.png Graphic file (type png)
+<use 53.png>
+Package pdftex.def Info: 53.png  used on input line 616.
+(pdftex.def)             Requested size: 455.24411pt x 252.71272pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<54.png, id=120, 976.39781pt x 1194.71344pt>
+File: 54.png Graphic file (type png)
+<use 54.png>
+Package pdftex.def Info: 54.png  used on input line 625.
+(pdftex.def)             Requested size: 318.66948pt x 389.91795pt.
+[23 <./51.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24 <./52.png>]
+<55.png, id=130, 1952.04282pt x 983.17313pt>
+File: 55.png Graphic file (type png)
+<use 55.png>
+Package pdftex.def Info: 55.png  used on input line 639.
+(pdftex.def)             Requested size: 455.24411pt x 229.29048pt.
+ [25 <./53.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 646--664
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--664
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--664
+
+ []
+
+[26 <./54.png>]
+<56.png, id=140, 1671.24374pt x 1412.27625pt>
+File: 56.png Graphic file (type png)
+<use 56.png>
+Package pdftex.def Info: 56.png  used on input line 670.
+(pdftex.def)             Requested size: 455.24411pt x 384.70297pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27 <./55.png>]
+<57.png, id=145, 952.55875pt x 913.4125pt>
+File: 57.png Graphic file (type png)
+<use 57.png>
+Package pdftex.def Info: 57.png  used on input line 679.
+(pdftex.def)             Requested size: 455.24411pt x 436.53752pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28 <./56.png>] [29 <./57.png>]
+<58.png, id=154, 1556.06343pt x 860.46469pt>
+File: 58.png Graphic file (type png)
+<use 58.png>
+Package pdftex.def Info: 58.png  used on input line 692.
+(pdftex.def)             Requested size: 455.24411pt x 251.73415pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 697--709
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 697--709
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 697--709
+
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 710--732
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--732
+
+ []
+
+[30 <./58.png>] [31] [32] [33] (build/paper.bbl [34] [35]
+Underfull \hbox (badness 1275) in paragraph at lines 117--122
+[]\OT1/cmr/m/n/12 Chakradhar Ban-da-palli, Bharatku-mar Mo-hanbhai Su-taria, Dhanan-jay Vishnu
+ []
+
+[36] [37]) [38] (build/paper.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7041 strings out of 480608
+ 96362 string characters out of 5907536
+ 354081 words of memory out of 5000000
+ 22752 multiletter control sequences out of 15000+600000
+ 552142 words of font info for 101 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,18n,45p,2356b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on build/paper.pdf (38 pages, 44446580 bytes).
+PDF statistics:
+ 246 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,12 @@
+$logPath = 'C:\Users\sbagr\.yadlt\logs'
+
+# Get specific folders if more exist
+$reqFolders = New-Object System.Collections.ArrayList
+$reqFolders = Get-ChildItem $logPath | Select Name | Where { [convert]::ToInt32($_.Name.SubString(3),10) -ge 70}
+
+# Make destination folder
+$dFolder = 'r1'
+New-Item $logPath'/'$dFolder -itemtype directory 
+
+# Copy only the required files to destination folder
+Get-ChildItem -Recurse "C:\Users\sbagr\.yadlt\logs\$reqFolders" | Where { ! $_.PSIsContainer } | foreach { Copy-Item $_.FullName -Destination "C:\Users\sbagr\.yadlt\logs\r1" }
